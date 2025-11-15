@@ -17,6 +17,7 @@
 ### 2. Right-click on your usb drive and resize at least 10mb from it
 ### 3. Add a new partition on the unlocated space
 ### 4. Extract the .ISO contents onto the USB drive.
+## 100 MB is needed but 6gb is recoomended.
 
 # For booting:
 ### It depends on your motherboard. Check online or a youtube video on how to boot a usb drive
